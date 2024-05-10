@@ -11,7 +11,6 @@ source "http://rubygems.org"
 gem "jekyll"
 gem "rack"
 gem "webrick"
-# gem "pathutil", github: "sdogruyol/pathutil", ref: '6ab144a7706c2bc5fa0dfdfa498e94ff66e944c6'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
